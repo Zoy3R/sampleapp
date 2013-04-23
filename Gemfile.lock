@@ -140,7 +140,6 @@ PLATFORMS
 DEPENDENCIES
   capybara (= 1.1.2)
   coffee-rails (= 3.2.2)
-  execjs
   jquery-rails (= 2.0.1)
   json
   pg (= 0.12.2)
